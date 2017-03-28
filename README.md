@@ -14,7 +14,7 @@ Note: Do **not** fork the main repository.
   - `git status`
   - `git add [individual file name]`
   - `git commit -m "Brief detailed message"`
-  - `git push`
+  - `git push` OR `git push --set-upstream origin feature/task-name`
 5. Send and create a [pull request](https://help.github.com/articles/about-pull-requests/) from your branch with the **base** being the master and the compare being **feature/task-name**.
 6. Notify the PM that you have sent a pull request and wait for the PM to [merge the pull requests](https://help.github.com/articles/merging-a-pull-request/)
 
