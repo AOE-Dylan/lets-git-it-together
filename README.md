@@ -15,8 +15,17 @@ Note: Do **not** fork the main repository.
   - `git add [individual file name]`
   - `git commit -m "Brief detailed message"`
   - `git push` OR `git push --set-upstream origin feature/task-name`
+![Steps 1-4](https://github.com/creindle/waipahu-git-github/blob/master/screenshots/steps_1_4.png)
 5. Send and create a [pull request](https://help.github.com/articles/about-pull-requests/) from your branch with the **base** being the master and the compare being **feature/task-name**.
+![Step 5](https://github.com/creindle/waipahu-git-github/blob/master/screenshots/git_push.png)
+![Step 5](https://github.com/creindle/waipahu-git-github/blob/master/screenshots/pull_request.png)
+![Step 5](https://github.com/creindle/waipahu-git-github/blob/master/screenshots/pull_request_2.png)
 6. Notify the PM that you have sent a pull request and wait for the PM to [merge the pull requests](https://help.github.com/articles/merging-a-pull-request/)
+
+## Screenshots
+![Exercise 1](https://github.com/creindle/waipahu-git-github/blob/master/screenshots/exercise_1.png)
+![Exercise 1](https://github.com/creindle/waipahu-git-github/blob/master/screenshots/exercise_2.png)
+![Exercise 1](https://github.com/creindle/waipahu-git-github/blob/master/screenshots/exercise_3.png)
 
 ## Your Task
 With the students on your table acting as a team,
