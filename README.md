@@ -29,6 +29,7 @@ With the students on your table acting as a team,
   - css/styles.css
   - js/app.js
 6. These files must be connected to one another, display the team name in the **title**, have background color of **blue**, and has a button that displays an alert with string "Hi" in the Console upon click.
+7. Once you have completed, notify the instructors.
 
 Resources
 - [Understanding Github Flow](https://help.github.com/articles/github-flow/)
