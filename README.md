@@ -2,7 +2,7 @@
 This repository serves as a step-by-step guide for project workflow, after project creation.
 
 1. Find your teams respository on GitHub and clone the respository using Git Shell/Terminal to your local workspace. 
-Note: Do **not** fork the main repository. **Only** clone the main repository.
+Note: Do **not** fork the main repository.
   - `git clone [project name]`
   - `cd [project name]`
 2. Create a branch from the repository using Git Shell/Terminal.
