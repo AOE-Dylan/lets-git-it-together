@@ -24,11 +24,11 @@ With the students on your table acting as a team,
 2. Every other student must accept the invitation to become a collaborator on GitHub.
 3. Each student must **clone** the repository to their local workspace.
 4. Follow the GitHub Flow above to create a simple project. Each student is only allowed to create and modify one file each. 
-4. Create the following files:
+5. Create the following files:
   - index.html
   - css/styles.css
   - js/app.js
-5. These files must be connected to one another, display the team name in the **title**, have background color of **blue**, and has a button that displays an alert with string "Hi" in the Console upon click.
+6. These files must be connected to one another, display the team name in the **title**, have background color of **blue**, and has a button that displays an alert with string "Hi" in the Console upon click.
 
 Resources
 - [Understanding Github Flow](https://help.github.com/articles/github-flow/)
