@@ -8,7 +8,7 @@ Note: Do **not** fork the main repository.
 2. Create a branch from the repository using Git Shell/Terminal.
   - `git checkout -b feature/task-name`
 3. Push up newly created branch using Git Shell/Terminal
-  - `git push -v origin feature/task-name`
+  - `git push -u origin feature/task-name`
 3. Create, edit, rename, move, or delete files in your local workspace.
 4. Create commits once crucial parts of the task has been completed. 
   - `git status`
@@ -20,7 +20,7 @@ Note: Do **not** fork the main repository.
 ![Step 5](https://github.com/creindle/waipahu-git-github/blob/master/screenshots/git_push.png)
 ![Step 5](https://github.com/creindle/waipahu-git-github/blob/master/screenshots/pull_request.png)
 ![Step 5](https://github.com/creindle/waipahu-git-github/blob/master/screenshots/pull_request_2.png)
-6. Notify the PM that you have sent a pull request and wait for the PM to [merge the pull requests](https://help.github.com/articles/merging-a-pull-request/)
+6. Notify a Jr. DevLeague instructor that you have sent a pull request and wait for the pull request to be approved to see the merge process visit [merge the pull requests](https://help.github.com/articles/merging-a-pull-request/)
 
 ## Screenshots
 ![Exercise 1](https://github.com/creindle/waipahu-git-github/blob/master/screenshots/exercise_1.png)
@@ -28,16 +28,16 @@ Note: Do **not** fork the main repository.
 ![Exercise 1](https://github.com/creindle/waipahu-git-github/blob/master/screenshots/exercise_3.png)
 
 ## Your Task
-With the students on your table acting as a team,
+With the students at your table section acting as a team,
 1. Assign one student as the PM, this student is in charge of creating the repository on GitHub and adding every other student on the table as collaborators.
-2. Every other student must accept the invitation to become a collaborator on GitHub.
-3. Each student must **clone** the repository to their local workspace.
+2. Every other student must accept the invitation from a Jr. DevLeague instructor to become a collaborator on GitHub.
+3. Each student must **clone** the repository to their local workspace. **DO NOT FORK!** Just clone.
 4. Follow the GitHub Flow above to create a simple project. Each student is only allowed to create and modify one file each. 
 5. Create the following files:
   - index.html
   - css/styles.css
   - js/app.js
-6. These files must be connected to one another, display the team name in the **title**, have background color of **blue**, and has a button that displays an alert with string "Hi" in the Console upon click.
+6. These files must be linked together, display the team name in the **title**, have background color of **blue**, and has a button that displays an alert with string "Hi" in the Console upon click.
 7. Once you have completed, notify the instructors.
 
 Resources
